@@ -12,4 +12,4 @@ I am a quick visual learner with critical thinking skills who works well with ot
 
 ## Links
 
-* {LinkedIn](https://www.linkedin.com/in/adrian-anaya-434808127/ "Adrian Anaya")
+* [LinkedIn](https://www.linkedin.com/in/adrian-anaya-434808127/ "Adrian Anaya")
