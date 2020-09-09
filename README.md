@@ -11,3 +11,5 @@ I am a quick visual learner with critical thinking skills who works well with ot
 * Hello World: Android application
 
 ## Links
+
+* {LinkedIn](https://www.linkedin.com/in/adrian-anaya-434808127/ "Adrian Anaya")
