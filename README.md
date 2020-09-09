@@ -6,8 +6,8 @@ I am a quick visual learner with critical thinking skills who works well with ot
 
 ## Current projects
 
-*Hello World: Java console application
+* Hello World: Java console application
 
-*Hello World: Android application
+* Hello World: Android application
 
 ## Links
