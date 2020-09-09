@@ -6,9 +6,9 @@ I am a quick visual learner with critical thinking skills who works well with ot
 
 ## Current projects
 
-* Hello World: Java console application
+* [Hello World: Java console application](https://github.com/anayadrian1/deep-dive-hellow-world-aa)
 
-* Hello World: Android application
+* [Hello World: Android application](https://github.com/anayadrian1/hello-world)
 
 ## Links
 
