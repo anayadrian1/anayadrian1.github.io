@@ -1,6 +1,6 @@
 ## Introduction
 
-I am a quick visual learner with critical thinking skills who works well with others and am currently going to attend the Deep Dive Coding Java + Android Bootcamp. My plans upon course completion is to hopefully get a job or internship to advance my skills in computer science and obtain a career in this field.
+Hello! My name is Adrian Anaya. I am a 23 year old student in the CNM Ingenuity Deep Dive Java + Android Bootcamp at Central New Mexico Community College. I am studying to become a junior software developer to advance my skills in the industry and further my education within the field. I am advancing my skills in Java, SQL, Android architecture, databasing with Room and JPA/Hiberante, and touching on other languages as necessary like Ruby, and am excited and open to learning more about computer science and the many languages, skills, and challenged that come with it.
 
 ## Current projects
 
