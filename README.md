@@ -4,9 +4,9 @@ Hello! My name is Adrian Anaya. I am a 23 year old student in the CNM Ingenuity 
 
 ## Current projects
 
-* [Hello World: Java console application](https://github.com/anayadrian1/deep-dive-hellow-world-aa)
+* [Sno: Productivity Android Application](https://github.com/anayadrian1/sno)
 
-* [Hello World: Android application](https://github.com/anayadrian1/hello-world)
+* [Powdr: A Social Ski App for Android](https://github.com/powdr-ddc/powdr-ddc.github.io)
 
 ## Recently updated repositories
 
