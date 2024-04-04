@@ -1,6 +1,6 @@
 ## Introduction
 
-Hello! My name is Adrian Anaya. I am a 23 year old student in the CNM Ingenuity Deep Dive Java + Android Bootcamp at Central New Mexico Community College. I am studying to become a junior software developer to advance my skills in the industry and further my education within the field. I am advancing my skills in Java, SQL, Android architecture, databasing with Room and JPA/Hiberante, and touching on other languages as necessary like Ruby, and am excited and open to learning more about computer science and the many languages, skills, and challenged that come with it.
+Hello! My name is Adrian Anaya. I am a 26-year-old hard-working graduate student of the University of New Mexico with a Bachelor's of Business Administration and working towards a Master's in Cybersecurity. I am also former personal injury legal assistant experienced in independently managing a myriad of client files through all stages, except litigation, for a personal injury claim with a certification from the Java + Android Deep Dive Coding Program with CNM Ingenuity where I worked  to develop skills in front end and back end software development to create applications for Android using Java and XML, while utilizing database languages such as SQL. I want to advance my skills in the information technology and software development industries and further my education within the fields.
 
 ## Current projects
 
